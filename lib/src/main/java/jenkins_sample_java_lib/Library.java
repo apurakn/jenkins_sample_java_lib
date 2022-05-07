@@ -5,6 +5,9 @@ package jenkins_sample_java_lib;
 
 public class Library {
     public boolean someLibraryMethod() {
+
+        System.out.println("Hello World");
+
         return true;
     }
 }
